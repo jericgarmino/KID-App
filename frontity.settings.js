@@ -2,9 +2,9 @@ const settings = {
   "name": "kid-app",
   "state": {
     "frontity": {
-      "url": "https://test.frontity.org",
-      "title": "Test Frontity Blog",
-      "description": "WordPress installation for Frontity development"
+      "url": "http://kabataaniwasdroga.com",
+      "title": "KID Blog",
+      "description": "Find the latest happening about KID Movement."
     }
   },
   "packages": [
@@ -45,7 +45,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://test.frontity.org"
+          "url": "http://kabataaniwasdroga.com"
         }
       }
     },
