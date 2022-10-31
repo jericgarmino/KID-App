@@ -48,9 +48,7 @@ const cssReset = css`
     text-align: inherit;
   }
   
-  .css-1vr7vmn {
-    display: none !important;
-  }
+
 
   blockquote::before,
   blockquote::after {
