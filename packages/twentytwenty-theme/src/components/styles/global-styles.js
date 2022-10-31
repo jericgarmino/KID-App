@@ -47,6 +47,10 @@ const cssReset = css`
     padding: 0;
     text-align: inherit;
   }
+  
+  .css-1vr7vmn {
+    display: none !important;
+  }
 
   blockquote::before,
   blockquote::after {
