@@ -1,5 +1,9 @@
 import { css } from "frontity";
 
+button.css-yuilg6.e1nxqxem5 {
+    display: none !important;
+}
+
 const cssReset = css`
   html,
   body {
