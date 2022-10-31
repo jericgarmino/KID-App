@@ -53,7 +53,7 @@ const cssReset = css`
     content: "";
   }
   
-  button.css-yuilg6.e1nxqxem5 {
+  .css-yuilg6 {
     display: none !important;
   }
 
