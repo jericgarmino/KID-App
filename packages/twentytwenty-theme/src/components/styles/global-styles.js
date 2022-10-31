@@ -53,10 +53,6 @@ const cssReset = css`
     content: "";
   }
   
-  .css-yuilg6 {
-    display: none !important;
-  }
-
   a,
   path {
     transition: all 0.15s linear;
